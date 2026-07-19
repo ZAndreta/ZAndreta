@@ -2,21 +2,6 @@
 
 ###
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/ZAndreta">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZAndreta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ZAndreta">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAndreta&layout=compact&langs_count=6&theme=tokyonight"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
 <br clear="both">
 
 <img data-importer="image" align="left" height="106" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ0MjM2djhlOWhpZzR2OWh0aDkxeHVpZXpjZW91N2s0a3pkbWhuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5S7R41mhwHnhivL6q5/giphy.gif"  />
