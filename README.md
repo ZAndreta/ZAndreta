@@ -1,14 +1,15 @@
-<h2 data-importer="text" align="left">Hi 👋, I'm Andressa Correia, a Systems Analysis and Development student focused on databases, SQL, and data analysis!</h2>
+<h2 data-importer="text" align="left">Hi 👋, I'm Andressa Correia!</h2>
 
-###
+### </h1> 🎓 A Systems Analysis and Development student focused on 
+🐍 Python, 🗄️ databases, 🔍 SQL, and 📊 data analysis!</h1>
 
 <br clear="both">
 
-<img data-importer="image" align="left" height="106" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ0MjM2djhlOWhpZzR2OWh0aDkxeHVpZXpjZW91N2s0a3pkbWhuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5S7R41mhwHnhivL6q5/giphy.gif"  />
+<img data-importer="image" align="center" height="106" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ0MjM2djhlOWhpZzR2OWh0aDkxeHVpZXpjZW91N2s0a3pkbWhuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5S7R41mhwHnhivL6q5/giphy.gif"  />
 
-###
+###                           👩‍💻 Technologies and Skills
 
-<div data-importer="techs" align="center">
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -22,7 +23,7 @@
 
 ###
 
-<div data-importer="socials" align="center">
+<div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/andyarauj33" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
