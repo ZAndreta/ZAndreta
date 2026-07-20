@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *" # Roda automaticamente uma vez por dia
   workflow_dispatch: # Permite que você ative o jogo manualmente quando quiser
 
+# Garante que o script tenha permissão total de escrita via código
+permissions:
+  contents: write
+
 jobs:
   build:
     name: Jobs to update datas
@@ -25,5 +29,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          create_target_branch: true # Força a criação da branch caso ela não exista
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
