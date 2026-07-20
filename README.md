@@ -1,3 +1,6 @@
+<details open>
+<summary><b>✨ About Me & Portfolio</b></summary>
+
 <h2>Hi 👋, I'm Andressa Correia!</h2>
 
 **`Database Developer | SQL Developer`**
@@ -11,7 +14,8 @@
       <h3>👩‍💻 Systems Analysis and Development Student @ FATEC</h3>
       🐍 Python | SQL | Databases<br>
       📊 Data Analysis & Data Manipulation<br>
-      🚀 Projects, learning and growth in technology
+      🚀 Projects, learning and growth in technology<br>
+      📍 São Paulo, Brazil
       <br><br>
       <!-- Redes Sociais -->
       <div data-importer="socials" align="left">
@@ -33,22 +37,40 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=4&section=header" width="100%">
 
-<br>
 
-<h3 align="left">👩‍💻 Technologies and Skills</h3>
-
-<br>
+<h3 align="left">💻 Technologies and Skills</h3>
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="microsoftsqlserver logo" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
+
+</details>
+<hr>
+
+
+<!-- LINHA DE EXTRAS (Sem depender de Commits) -->
+  <tr>
+    <td colspan="2" align="center" style="border: none; padding-top: 25px;">
+      <br>
+      <!-- Contador de Visitas Moderno -->
+      <img src="https://komarev.com/ghpvc/?username=andressaaraujo16&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="Views Counter" />
+      <br><br>
+      <!-- Gerador de Frases de Programador (Muda automaticamente) -->
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=4169E1&center=true&vCenter=true&width=500&lines=Developing+Data+Solutions...;Learning+Every+Single+Day...;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
+
+<tr>
+    <td colspan="2" align="center" style="border: none; padding-top: 25px;">
+      <br>
+      <!-- A animação gerada automaticamente vai aparecer aqui -->
+      <img width="100%" src="https://raw.githubusercontent.com/andressaaraujo16/andressaaraujo16/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+    </td>
+  </tr>
+</table>
