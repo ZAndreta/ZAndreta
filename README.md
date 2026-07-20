@@ -56,7 +56,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
-</details>
 <hr>
 
 
@@ -67,14 +66,6 @@
       <!-- Contador de Visitas Moderno -->
       <img src="https://komarev.com/ghpvc/?username=andressaaraujo16&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="Views Counter" />
       <br><br>
-   
-</table>
 
-<tr>
-    <td colspan="2" align="center" style="border: none; padding-top: 25px;">
-      <br>
-      <!-- A animação gerada automaticamente vai aparecer aqui -->
-      <img width="100%" src="https://raw.githubusercontent.com/andressaaraujo16/andressaaraujo16/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
-    </td>
-  </tr>
-</table>
+
+</details>
