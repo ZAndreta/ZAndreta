@@ -4,7 +4,14 @@
 <h2>Hi 👋, I'm Andressa Correia!</h2>
 
 **`Database Developer | SQL Developer`**
-
+<!-- LINHA DO TEXTO DE BOAS-VINDAS ANIMADO -->
+  <tr>
+    <td colspan="2" align="center" style="border: none; padding-top: 25px;">
+      <br>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=4169E1&center=true&vCenter=true&width=500&lines=Developing+Data+Solutions...;Learning+Every+Single+Day...;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 <br>
 
 <table>
@@ -60,10 +67,7 @@
       <!-- Contador de Visitas Moderno -->
       <img src="https://komarev.com/ghpvc/?username=andressaaraujo16&label=Profile%20Views&color=0077B5&style=for-the-badge" alt="Views Counter" />
       <br><br>
-      <!-- Gerador de Frases de Programador (Muda automaticamente) -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=4169E1&center=true&vCenter=true&width=500&lines=Developing+Data+Solutions...;Learning+Every+Single+Day...;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-    </td>
-  </tr>
+   
 </table>
 
 <tr>
